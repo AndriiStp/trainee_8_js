@@ -1,11 +1,11 @@
 {
-  "name": "parcel-project-template",
+  "name": "trainee_8_js",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://AndriiStp.github.io/train_8_js",
+  "homepage": "https://AndriiStp.github.io/trainee_8_js",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /train_8_js/"
+    "build": "parcel build src/*.html --public-url /trainee_8_js/"
   },
   "repository": {
     "type": "git",
